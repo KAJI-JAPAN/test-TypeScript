@@ -1,3 +1,4 @@
+// 引数の型
 export const Practice1 = () => {
   const calcTotalFee = (num: number) => {
     const total = num * 1.1;
